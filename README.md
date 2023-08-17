@@ -1,5 +1,4 @@
 # College Advisor Machine Learning 
-https://drive.google.com/drive/folders/12PYv3KM0sIuOvpxbKmWIhCybd9ca-fw_?usp=sharing
 [Link to PDF](Final%20Report%20(Team%20%231).pdf)
 College Admission Advisor (CAA) is a data application designed to help students discover colleges and their neighborhoods across the United States. 
 
@@ -28,4 +27,4 @@ The model input includes standardized test scores (SAT and ACT), and the accepta
 
 In order to build a ML model, first, by preprocessing the raw data, we standardized all inputs, such as replacing the blank values. Second, we normalized the data into range 0 to 1 by min-max scaler for better clustering. Also, we used K-means clustering (figure 1) and decided the cluster number 7 by the elbow method (figure 2). Finally, we built a ML model and saved the model locally for a faster operation.
 
-
+https://drive.google.com/drive/folders/12PYv3KM0sIuOvpxbKmWIhCybd9ca-fw_?usp=sharing
