@@ -1,6 +1,6 @@
 # College Advisor Machine Learning 
 https://drive.google.com/drive/folders/12PYv3KM0sIuOvpxbKmWIhCybd9ca-fw_?usp=sharing
-
+[Link to PDF](Final%20Report%20(Team%20%231).pdf)
 College Admission Advisor (CAA) is a data application designed to help students discover colleges and their neighborhoods across the United States. 
 
 **Motivation:**
